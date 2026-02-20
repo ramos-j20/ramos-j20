@@ -24,9 +24,9 @@
 I'm a recent Data Science/Engineering & AI graduate with a passion for building end-to-end ML pipelines and distributed systems. I enjoy turning raw, messy data into actionable insights - and I bring the same analytical mindset from 15+ years of semi-professional basketball to every problem I tackle in tech.
 
 - 🎓 Graduated my BSc at **Universidade de Coimbra** (Oct 2021– Jan 2026)
-- 🌍 Bilingual background — studied in **Portugal** and **Michigan, USA**
+- 🌍 Bilingual background - studied in **Portugal** and **Michigan, USA**
 - 🤖 Currently deepening my knowledge in **Machine Learning** and **Cloud Infrastructure**
-- 🏀 Semi-professional basketball player — teamwork and resilience are in my DNA
+- 🏀 Semi-professional basketball player - teamwork and resilience are in my DNA
 
 ---
 
