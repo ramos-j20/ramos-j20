@@ -21,9 +21,9 @@
 
 ## About Me
 
-I'm a final-year Data Science & AI student with a passion for building end-to-end ML pipelines and distributed systems. I enjoy turning raw, messy data into actionable insights — and I bring the same analytical mindset from 15+ years of semi-professional basketball to every problem I tackle in tech.
+I'm a recent Data Science/Engineering & AI graduate with a passion for building end-to-end ML pipelines and distributed systems. I enjoy turning raw, messy data into actionable insights - and I bring the same analytical mindset from 15+ years of semi-professional basketball to every problem I tackle in tech.
 
-- 🎓 Finishing my BSc at **Universidade de Coimbra** (2021–2026)
+- 🎓 Graduated my BSc at **Universidade de Coimbra** (Oct 2021– Jan 2026)
 - 🌍 Bilingual background — studied in **Portugal** and **Michigan, USA**
 - 🤖 Currently deepening my knowledge in **Machine Learning** and **Cloud Infrastructure**
 - 🏀 Semi-professional basketball player — teamwork and resilience are in my DNA
@@ -79,15 +79,6 @@ Built an end-to-end ML pipeline that processes real GitLab activity data to pred
 Designed and implemented a distributed search engine with parallel downloaders and a load-balancing mechanism, reducing average search response time by **40%**. Integrated the Hacker News REST API and OpenAI Chat Completions API.
 
 `Java RMI` `Spring Boot` `OpenAI API` `Hacker News API` `MVC` `Git`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramos-j20&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-j20&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
 
 ---
 
