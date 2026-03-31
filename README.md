@@ -65,20 +65,30 @@ I'm a recent Data Science/Engineering & AI graduate with a passion for building 
 
 ## 📂 Featured Projects
 
+### 📈 FinSight — Earnings Intelligence Platform
+> **Full-Stack ML & Backend**
+
+A production-grade Retrieval-Augmented Generation (RAG) system built on top of SEC EDGAR filings. Analysts can ask natural-language questions about any public company and receive cited, auditable answers grounded in real filings. Airflow orchestrates periodic ingestion from EDGAR, a FastAPI backend handles query routing and logging, and a Streamlit interface delivers streaming responses with source citations.
+
+`FastAPI` `Streamlit` `Airflow` `Pinecone` `PostgreSQL` `LangChain` `OpenAI` `Anthropic Claude` `Docker`
+
+---
+
+### 🤖 Autonomous Warehouse IIoT System
+> **IoT Systems & Backend**
+
+A simulated Industrial IoT system for an autonomous warehouse featuring a full fleet of Autonomous Mobile Robots (AMRs), Smart Shelves, and a central coordination layer. The Gateway normalizes sensor data and persists it to InfluxDB Cloud. A Fleet Coordinator assigns tasks to idle robots via MQTT, while a System Monitor watchdog detects stalls and low-battery events, issuing remote override commands automatically. Operational metrics are visualized in real time through Grafana dashboards.
+
+`Python` `MQTT` `InfluxDB` `Grafana`
+
+---
+
 ### 🎓 Predicting Student Outcomes from GitLab Activity
 > **Backend & ML Lead**
 
 Built an end-to-end ML pipeline that processes real GitLab activity data to predict student grades. Led backend development, feature engineering, EDA, and model training. Delivered through a Flask interface with data stored in MongoDB.
 
 `scikit-learn` `XGBoost` `pandas` `numpy` `matplotlib` `seaborn` `Flask` `MongoDB` `python-gitlab`
-
----
-
-### 🔍 Distributed Search Engine with Web Interface & API Integration
-
-Designed and implemented a distributed search engine with parallel downloaders and a load-balancing mechanism, reducing average search response time by **40%**. Integrated the Hacker News REST API and OpenAI Chat Completions API.
-
-`Java RMI` `Spring Boot` `OpenAI API` `Hacker News API` `MVC` `Git`
 
 ---
 
