@@ -23,7 +23,7 @@
 
 I'm a recent Data Science/Engineering & AI graduate with a passion for building end-to-end ML pipelines and distributed systems. I enjoy turning raw, messy data into actionable insights - and I bring the same analytical mindset from 11+ years of semi-professional basketball to every problem I tackle in tech.
 
-- 🎓 Graduated my BSc at **Universidade de Coimbra** (Oct 2021– Jan 2026)
+- 🎓 Graduated my BSc at **Universidade de Coimbra** (Oct 2021– Feb 2026)
 - 🌍 Bilingual background - studied in **Portugal** and **Michigan, USA**
 - 🤖 Currently deepening my knowledge in **Machine Learning** and **Cloud Infrastructure**
 - 🏀 Semi-professional basketball player - teamwork and resilience are in my DNA
@@ -74,21 +74,21 @@ A production-grade Retrieval-Augmented Generation (RAG) system built on top of S
 
 ---
 
-### 🤖 Autonomous Warehouse IIoT System
-> **IoT Systems & Backend**
-
-A simulated Industrial IoT system for an autonomous warehouse featuring a full fleet of Autonomous Mobile Robots (AMRs), Smart Shelves, and a central coordination layer. The Gateway normalizes sensor data and persists it to InfluxDB Cloud. A Fleet Coordinator assigns tasks to idle robots via MQTT, while a System Monitor watchdog detects stalls and low-battery events, issuing remote override commands automatically. Operational metrics are visualized in real time through Grafana dashboards.
-
-`Python` `MQTT` `InfluxDB` `Grafana`
-
----
-
 ### 🎓 Predicting Student Outcomes from GitLab Activity
 > **Backend & ML Lead**
 
 Built an end-to-end ML pipeline that processes real GitLab activity data to predict student grades. Led backend development, feature engineering, EDA, and model training. Delivered through a Flask interface with data stored in MongoDB.
 
 `scikit-learn` `XGBoost` `pandas` `numpy` `matplotlib` `seaborn` `Flask` `MongoDB` `python-gitlab`
+
+---
+
+### 🤖 Autonomous Warehouse IIoT System
+> **IoT Systems & Backend**
+
+A simulated Industrial IoT system for an autonomous warehouse featuring a full fleet of Autonomous Mobile Robots (AMRs), Smart Shelves, and a central coordination layer. The Gateway normalizes sensor data and persists it to InfluxDB Cloud. A Fleet Coordinator assigns tasks to idle robots via MQTT, while a System Monitor watchdog detects stalls and low-battery events, issuing remote override commands automatically. Operational metrics are visualized in real time through Grafana dashboards.
+
+`Python` `MQTT` `InfluxDB` `Grafana`
 
 ---
 
