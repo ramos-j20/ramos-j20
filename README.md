@@ -23,7 +23,7 @@
 
 I'm a recent Data Science/Engineering & AI graduate with a passion for building end-to-end ML pipelines and distributed systems. I enjoy turning raw, messy data into actionable insights - and I bring the same analytical mindset from 11+ years of semi-professional basketball to every problem I tackle in tech.
 
-- 🎓 Graduated my BSc at **Universidade de Coimbra** (Oct 2021– Feb 2026)
+- 🎓 Graduated my BSc at **Universidade de Coimbra** (Oct 2021– Jan 2026)
 - 🌍 Bilingual background - studied in **Portugal** and **Michigan, USA**
 - 🤖 Currently deepening my knowledge in **Machine Learning** and **Cloud Infrastructure**
 - 🏀 Semi-professional basketball player - teamwork and resilience are in my DNA
@@ -47,16 +47,25 @@ I'm a recent Data Science/Engineering & AI graduate with a passion for building 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**Databases**
+**Databases & Vector Stores**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
+
+**AI & LLMs**
+
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-191919?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
 
 **Infrastructure & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
